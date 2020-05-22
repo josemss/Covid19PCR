@@ -1,7 +1,7 @@
 Covid-19: The case of Spain
 ================
 JMSS \[Usal - CIC\]
-(updated: 21 may 2020)
+(updated: 22 may 2020)
 
 # Models for the COVID-19 pandemic in Spain
 
@@ -41,16 +41,17 @@ It is based on interpolation with cubic splines. See
 
 ![](README_files/figure-gfm/splinesD-1.png)<!-- -->
 
-##### Infecteds forecast for tomorrow (2020-05-22): 233519
+##### Infecteds forecast for tomorrow (2020-05-23): 236611
 
-##### Deaths forecast for tomorrow (2020-05-22): 27992
+##### Deaths forecast for tomorrow (2020-05-23): 29316
 
 Previous predictions:
 
     Infecteds forecast:
 
-    20-05 -> predicted = 232037; observed = 232555; error = -0.22%
+    20-05 -> predicted = 232037; observed = 232693; error = -0.28%
     21-05 -> predicted = 233073; observed = 233037; error =  0.02%
+    22-05 -> predicted = 233519; observed = 234824; error = -0.56%
 
     Deaths forecast:
 
@@ -98,8 +99,9 @@ Previous predictions:
     17-05 -> predicted = 27667; observed = 27634; error =  0.12%
     18-05 -> predicted = 27737; observed = 27693; error =  0.16%
     19-05 -> predicted = 27768; observed = 27793; error = -0.09%
-    20-05 -> predicted = 27847; observed = 27888; error = -0.15%
+    20-05 -> predicted = 27847; observed = 27892; error = -0.16%
     21-05 -> predicted = 27998; observed = 27940; error =  0.21%
+    22-05 -> predicted = 27992; observed = 28628; error = -2.27%
 
 -----
 
